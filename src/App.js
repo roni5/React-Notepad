@@ -43,7 +43,7 @@ class Carousel extends Component {
         <div>
         {React.createElement(message, {msg: 'Hello World Text'})}
         {React.createElement(message, {
-          msg: 'Creating Reusable React Components',
+          msg: 'Reusable React Components',
         })}
       </div>
       </div>
